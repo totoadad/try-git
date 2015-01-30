@@ -1,10 +1,11 @@
 This Repository is test for me.
 
 ***
-# HISTORY
+### History
 * 2015/1/30 add README.md
 
 ***
 
+### Copyright
 Hizuru Okada
 Twitter : @totoadad
